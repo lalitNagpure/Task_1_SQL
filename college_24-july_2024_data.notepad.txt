@@ -1,0 +1,6 @@
+id,name,mark,total,grade
+101,Science,87,100,A
+102,Maths,55,100,C
+103,Mararhi,66,100,B
+104,History,74,100,B
+105,English,84,100,a
